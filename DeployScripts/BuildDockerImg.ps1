@@ -1,0 +1,1 @@
+docker build c:\prestoimage\docker-images-master\presto\Dockerfile c:\prestoimage\docker-images-master\presto\ -t presto:$version

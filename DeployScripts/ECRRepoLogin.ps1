@@ -1,0 +1,1 @@
+Invoke-Expression -Command (Get-ECRLoginCommand -Region us-east-2 -ProfileName prestotest).command
